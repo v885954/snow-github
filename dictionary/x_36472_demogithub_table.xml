@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Demogithub Table" max_length="40" name="x_36472_demogithub_table" type="collection"/>
+</database>

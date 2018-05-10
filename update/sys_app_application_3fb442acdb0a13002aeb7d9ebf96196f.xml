@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>DemoGitHub</name>
+        <order/>
+        <roles>x_36472_demogithub.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-10 07:27:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3fb442acdb0a13002aeb7d9ebf96196f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>DemoGitHub</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DemoGitHub" source="x_36472_demogithub">ebb4c2e8db0a13002aeb7d9ebf9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoGitHub">ebb4c2e8db0a13002aeb7d9ebf9619c7</sys_scope>
+        <sys_update_name>sys_app_application_3fb442acdb0a13002aeb7d9ebf96196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-10 07:27:31</sys_updated_on>
+        <title>DemoGitHub</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

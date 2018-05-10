@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-10 07:27:31</sys_created_on>
+        <sys_id>44c4c2acdb0a13002aeb7d9ebf96195c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_36472_demogithub_table.x_36472_demogithub.user</sys_name>
+        <sys_package display_value="DemoGitHub" source="x_36472_demogithub">ebb4c2e8db0a13002aeb7d9ebf9619c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoGitHub">ebb4c2e8db0a13002aeb7d9ebf9619c7</sys_scope>
+        <sys_security_acl display_value="x_36472_demogithub_table">c8c4c2acdb0a13002aeb7d9ebf961958</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_44c4c2acdb0a13002aeb7d9ebf96195c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-10 07:27:31</sys_updated_on>
+        <sys_user_role display_value="x_36472_demogithub.user" name="x_36472_demogithub.user">73b4c2acdb0a13002aeb7d9ebf96193f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
